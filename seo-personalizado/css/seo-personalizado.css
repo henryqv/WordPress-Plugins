@@ -1,0 +1,28 @@
+/* seo-personalizado.css */
+
+#seo_personalizado_meta_box label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#seo_personalizado_meta_box input[type="text"],
+#seo_personalizado_meta_box textarea {
+    display: block;
+    margin-bottom: 10px;
+    max-width: 100%;
+    padding: 8px;
+    width: 800px;
+}
+
+#seo_personalizado_meta_box textarea {
+    min-height: 210px;
+}
+
+#seo_personalizado_meta_box p {
+    margin-bottom: 10px;
+}
+
+#seo_personalizado_meta_box input[type="checkbox"] {
+    margin-right: 5px;
+}
